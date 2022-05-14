@@ -24,4 +24,6 @@
 
  ![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
+<img align="right" alt="jeymes-gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/-hWWcfwUzTAAAAAi/when-you.gif">
+
 </div>
