@@ -24,6 +24,6 @@
 
  ![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-<img align="right" alt="jeymes-gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/-hWWcfwUzTAAAAAi/when-you.gif">
+<img align="right" alt="jeymes-gif" height="150" style="border-radius:50px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fea93e8c-7415-4b75-bb47-46876118adc1/d12936b-0fe11259-d062-4eaa-9bcf-2c2e82e9b38a.jpg/v1/fill/w_900,h_721,q_75,strp/lisa_on_marilyn_by_punxdude_d12936b-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIxIiwicGF0aCI6IlwvZlwvZmVhOTNlOGMtNzQxNS00Yjc1LWJiNDctNDY4NzYxMThhZGMxXC9kMTI5MzZiLTBmZTExMjU5LWQwNjItNGVhYS05YmNmLTJjMmU4MmU5YjM4YS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.LSajNFqs-diGWc0wasOWB0doZG11Ch3QTFTiBCtzdZw">
 
 </div>
