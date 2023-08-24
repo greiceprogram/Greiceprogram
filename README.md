@@ -47,18 +47,3 @@
 
  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=greiceprogram&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
- ## Repositórios
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=greiceprogram&repo=clone-Netflix-aula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/greiceprogram/clone-Netflix-aula)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=greiceprogram&repo=Interface-Instagram&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/greiceprogram/Interface-Instagram)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=greiceprogram&repo=contadorjs&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/greiceprogram/contadorjs)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=greiceprogram&repo=Project-Flexbox-DIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/greiceprogram/Project-Flexbox-DIO)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=greiceprogram&repo=CursoDIO-HTML&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/greiceprogram/CursoDIO-HTML)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=greiceprogram&repo=Projeto_Higieniza-o&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/greiceprogram/Projeto_Higieniza-o)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=greiceprogram&repo=Sintaxe-e-Operadores&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/greiceprogram/Sintaxe-e-Operadores)
