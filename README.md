@@ -1,49 +1,35 @@
-### Olá ! Eu sou a Greice Santana
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=&height=120&section=header"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Greice+Santana;I'm+29+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<br/>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucascorreaa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucca Hiratsuca github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascorreaa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img align="center" src="https://discord.com/channels/@me" alt="" />
+   <img align="right" alt="jeymes-gif" height="150" style="border-radius:50px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5bbf58a6-1e85-4cfe-83fd-02df6f482b45/dcea1a1-1bfcc046-cc3e-492f-9eef-970c9dc2b02a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzViYmY1OGE2LTFlODUtNGNmZS04M2ZkLTAyZGY2ZjQ4MmI0NVwvZGNlYTFhMS0xYmZjYzA0Ni1jYzNlLTQ5MmYtOWVlZi05NzBjOWRjMmIwMmEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.olv8zHMHsAtkiYDCGCu199-dg9IUHDU_NDctYd1bAcs">
+</div>
+
+<br/>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/greice-santana-60b753220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+</p>
 
 
-- 🌱 Atualmente estou aprendendo sobre programação.
-- 🤔 Cursando: TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
-- 💬 Contate-me no e-mail: greicesantanags528@gmail.com
-- 😄 Pronouns:  ela/dela
+<br/>
 
-  <img align="right" alt="jeymes-gif" height="150" style="border-radius:50px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5bbf58a6-1e85-4cfe-83fd-02df6f482b45/dcea1a1-1bfcc046-cc3e-492f-9eef-970c9dc2b02a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzViYmY1OGE2LTFlODUtNGNmZS04M2ZkLTAyZGY2ZjQ4MmI0NVwvZGNlYTFhMS0xYmZjYzA0Ni1jYzNlLTQ5MmYtOWVlZi05NzBjOWRjMmIwMmEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.olv8zHMHsAtkiYDCGCu199-dg9IUHDU_NDctYd1bAcs">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>   </p>
 
-## Conecte-se comigo
- 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/greice-santana-60b753220/)
-
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discord.com/channels/@me)
-
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/my__grc/)
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)](hhttps://github.com/greiceprogram)
-
-[![gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/?ogbl#inbox)
-
-## Habilidades
-
-- Desenvolvimento Web: Conhecimento em tecnologias como HTML, CSS e JavaScript, para criação de interfaces responsivas e interativas.
-- Resolução de Problemas: Capacidade de identificar e resolver problmeas de forma eficaz, utilizando abordagens lógicas e analiticas para melhorar a eficiência dos sistemas.
-- Autodidata e Aprendizado Contínuo: Habilidades para aprender novas Tecnógias, conceitos e ferramentas de forma independente, buscando o aprimoramento profissional. 
-
-## Linguagens de Marcação e Estilo
-
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) 
-
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-
-## Linguagens de Programação
- ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-
- ## GitHub Status
-
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=greiceprogram&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
- ## Linguagens mais usadas
-
- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=greiceprogram&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=&height=120&section=footer"/>
