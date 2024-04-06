@@ -10,7 +10,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=greiceprogram&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Greice Santana github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greiceprogram&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  <img align="center" src="https://discord.com/channels/@me" alt="" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greiceprogram&&theme=tokyonight" alt="greiceprogram" />
    <img align="right" alt="jeymes-gif" height="150" style="border-radius:50px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5bbf58a6-1e85-4cfe-83fd-02df6f482b45/dcea1a1-1bfcc046-cc3e-492f-9eef-970c9dc2b02a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzViYmY1OGE2LTFlODUtNGNmZS04M2ZkLTAyZGY2ZjQ4MmI0NVwvZGNlYTFhMS0xYmZjYzA0Ni1jYzNlLTQ5MmYtOWVlZi05NzBjOWRjMmIwMmEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.olv8zHMHsAtkiYDCGCu199-dg9IUHDU_NDctYd1bAcs">
 </div>
 
